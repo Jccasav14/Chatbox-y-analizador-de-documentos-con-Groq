@@ -1,2 +1,10 @@
-# Chatbox-y-analizador-de-documentos-con-Groq
-Archivos necesarios para generar un chat box y analizador de archivos con streamlit
+## Test UCE streamlit
+
+Gestor de proyectos **UV**
+
+Frontend **steamlit**
+
+__Servicios de LLM__
+
+ * Groq
+ * OpenAI
